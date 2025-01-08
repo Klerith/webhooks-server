@@ -19,6 +19,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
+    "@octokit/webhooks": "^13.4.2",
     "dotenv": "^16.4.7",
     "env-var": "^7.5.0",
     "express": "^4.21.2"
